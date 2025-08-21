@@ -56,13 +56,6 @@ Em sistemas elétricos de potência, uma rede de subestações pode ser represen
 
 O **Algoritmo de Prim** encontra a **Árvore Geradora Mínima (MST)**, garantindo conectividade com menor custo possível — uma técnica útil para **planejamento de redes elétricas**.
 
-## 📌 Exemplo visual
-
-A esquerda, a rede completa (com redundâncias).
-A direita, a rede otimizada pela MST de Prim.
-
-![Exemplo de Rede Original vs MST](./example.png)
-
 ## ✨ Autor
 
 * [Vitor Amadeu Souza](https://github.com/vitor-souza-ime)
